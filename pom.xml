@@ -3,22 +3,22 @@
   <parent>
     <groupId>org.nuxeo.ecm.distribution</groupId>
     <artifactId>nuxeo-distribution</artifactId>
-    <version>10.2-SNAPSHOT</version>
-    <relativePath></relativePath>
+    <version>9.10</version>
+    <relativePath/>
   </parent>
 
   <groupId>com.nuxeo.marketplace.adobe.connector</groupId>
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <name>Marketplace packaing parent pom</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.1-SNAPSHOT</version>
 
   <modules>
    <module>marketplace</module>
   </modules>
   
   <properties>
-    <nuxeo.addons.version>10.2-SNAPSHOT</nuxeo.addons.version>
+    <nuxeo.addons.version>9.10</nuxeo.addons.version>
   </properties> 
 
   <repositories>
