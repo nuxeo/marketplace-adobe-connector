@@ -10,14 +10,14 @@
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <name>Marketplace packaing parent pom</name>
-  <version>0.1.1-SNAPSHOT</version>
+  <version>0.1.1</version>
 
   <modules>
    <module>marketplace</module>
   </modules>
   
   <properties>
-    <nuxeo.addons.version>9.10-HF34-SNAPSHOT</nuxeo.addons.version>
+    <nuxeo.addons.version>9.10-HF33</nuxeo.addons.version>
   </properties> 
 
   <repositories>
