@@ -11,10 +11,10 @@
   <!-- <hotreload-support>false</hotreload-support> -->
   <!-- <require-terms-and-conditions-acceptance>false</require-terms-and-conditions-acceptance> -->
   <!-- Nuxeo Validation: none | inprocess | primary_validation | nuxeo_certified -->
-  <nuxeo-validation>none</nuxeo-validation>
+  <nuxeo-validation>nuxeo_certified</nuxeo-validation>
   <!-- Production State: production_ready | testing | proto -->
-  <production-state>testing</production-state>
-  <supported>false</supported>
+  <production-state>production_ready</production-state>
+  <supported>true</supported>
   <platforms>
     <platform>server-@DISTRIB_VERSION@</platform>
     <platform>server-@DISTRIB_VERSION@-HF*</platform>
@@ -38,5 +38,5 @@
   <license>Apache License, Version 2.0</license>
   <license-url>http://www.apache.org/licenses/LICENSE-2.0</license-url>
   <!-- Visibility: PRIVATE | MARKETPLACE | DEV | PUBLIC -->
-  <visibility>DEV</visibility>
+  <visibility>MARKETPLACE</visibility>
 </package>
