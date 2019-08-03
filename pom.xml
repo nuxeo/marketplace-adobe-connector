@@ -17,7 +17,7 @@
   </modules>
   
   <properties>
-    <nuxeo.addons.version>9.10-HF34-SNAPSHOT</nuxeo.addons.version>
+    <nuxeo.addons.version>9.10-HF35-SNAPSHOT</nuxeo.addons.version>
   </properties> 
 
   <repositories>
